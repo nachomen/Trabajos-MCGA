@@ -1,0 +1,28 @@
+{
+  "name": "Trabajos-MCGA",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nachomen/Trabajos-MCGA.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nachomen/Trabajos-MCGA/issues"
+  },
+  "homepage": "https://github.com/nachomen/Trabajos-MCGA#readme",
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.9",
+    "nodemon": "^1.19.4",
+    "react-redux": "^7.1.3"
+  }
+}
